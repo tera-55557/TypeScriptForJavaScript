@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/tera-55557/TypeScriptForJavaScript/issues"
   },
-  "homepage": "https://github.com/tera-55557/TypeScriptForJavaScript#readme"
+  "homepage": "https://github.com/tera-55557/TypeScriptForJavaScript#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
 }
